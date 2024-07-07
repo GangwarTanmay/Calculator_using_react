@@ -1,0 +1,15 @@
+.buttons-container {
+  width: 95%;
+  margin: 1rem auto;
+  display: flex;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  border-radius: 5px;
+  background-color: white;
+}
+
+.author-name {
+  color: grey;
+  margin-right: 0px;
+  margin-left: auto;
+}

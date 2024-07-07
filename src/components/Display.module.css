@@ -1,0 +1,10 @@
+.display {
+  width: 95%;
+  display: block;
+  margin: 1rem auto;
+  height: 4.5rem;
+  padding: 10px;
+  border: 2px solid black;
+  border-radius: 5px;
+  font-size: 2rem;
+}

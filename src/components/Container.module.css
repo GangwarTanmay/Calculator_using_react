@@ -1,0 +1,9 @@
+.container {
+  width: 30%;
+  min-width: 500px;
+  border-radius: 10px;
+  padding: 10px;
+  box-sizing: border-box;
+  background-color: azure;
+  margin: 3rem auto;
+}
